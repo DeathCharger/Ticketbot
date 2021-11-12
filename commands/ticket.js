@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const { MessageButton } = require('discord-buttons');
-const { prefix } = require(`../../config.json`)
+const { prefix } = require(`../config.json`)
 
 
 module.exports = {
