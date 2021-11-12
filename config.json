@@ -1,0 +1,11 @@
+{ 
+    "prefix": "", 
+    "token": "", 
+
+
+    "moderators_ids": ["mod id 1", "mod id 2", "mod id 3"],
+    "ticket_create_ping_roles_ids": ["role id 1", "role id 2", "role id 3"],
+
+
+    "help": "For Help Pls refer to the documentation"
+}
