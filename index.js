@@ -4,6 +4,8 @@ const config = require(`./config.json`)
 const log = console.log;
 
 
+const server = require(`./alive.js`)
+
   const client = new Discord.Client();
   client.commands = new Discord.Collection();
   const disbut = require('discord-buttons')(client);
