@@ -148,7 +148,7 @@ if (config.ticket_create_ping_roles_ids)  {
       console.clear()
       const willclose = new Discord.MessageEmbed()
       .setTitle(`❌ Closing Ticket..`)
-      .setDescription(`The ticket will closed in 10 seconds`)
+      .setDescription(`The ticket will be closed in 10 seconds`)
       .setColor(`RED`)
   
       button.channel.send(willclose).then(msg => {
