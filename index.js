@@ -2,6 +2,7 @@ const Discord = require(`discord.js`)
 const fs = require('fs')  
 const config = require(`./config.json`)
 const log = console.log;
+const { MessageButton } = require(`discord-buttons`)
 
 
 const server = require(`./alive.js`)
