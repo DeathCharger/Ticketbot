@@ -1,0 +1,25 @@
+{
+  "name": "Ticketbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeathCharger/Ticketbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeathCharger/Ticketbot/issues"
+  },
+  "homepage": "https://github.com/DeathCharger/Ticketbot#readme"
+}
